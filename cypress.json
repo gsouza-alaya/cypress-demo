@@ -13,5 +13,5 @@
   "responseTimeout": 120000,
   "requestTimeout": 60000,
   "retries": 2,
-  "baseUrl": "http://alayamarket.dev.alayacare.ca"
+  "baseUrl": "https://alayamarket.dev.alayacare.ca"
 }
