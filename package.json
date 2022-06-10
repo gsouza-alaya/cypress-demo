@@ -1,0 +1,30 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsouza-alaya/cypress-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsouza-alaya/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/gsouza-alaya/cypress-demo#readme",
+  "devDependencies": {
+    "@alayacare/alaya-cypress-core": "^1.8.0",
+    "@alayacare/qa-automation-lib": "^1.51.1",
+    "@testing-library/cypress": "^8.0.2",
+    "alaya-js-linters": "^0.1.13",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.9.0",
+    "prettier": "^2.5.1"
+  }
+}
